@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/firstReactDeploy/static/css/main.073c9b0a.css",
-    "main.js": "/firstReactDeploy/static/js/main.bb911c23.js",
+    "main.css": "/firstReactDeploy/static/css/main.1510200b.css",
+    "main.js": "/firstReactDeploy/static/js/main.8399295b.js",
     "static/js/787.28cb0dcd.chunk.js": "/firstReactDeploy/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/firstReactDeploy/index.html",
-    "main.073c9b0a.css.map": "/firstReactDeploy/static/css/main.073c9b0a.css.map",
-    "main.bb911c23.js.map": "/firstReactDeploy/static/js/main.bb911c23.js.map",
+    "static/media/About": "/firstReactDeploy/static/media/About.31d6cfe0d16ae931b73c",
+    "static/media/Error": "/firstReactDeploy/static/media/Error.31d6cfe0d16ae931b73c",
+    "main.1510200b.css.map": "/firstReactDeploy/static/css/main.1510200b.css.map",
+    "main.8399295b.js.map": "/firstReactDeploy/static/js/main.8399295b.js.map",
     "787.28cb0dcd.chunk.js.map": "/firstReactDeploy/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.bb911c23.js"
+    "static/css/main.1510200b.css",
+    "static/js/main.8399295b.js"
   ]
 }
